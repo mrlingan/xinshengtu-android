@@ -1,0 +1,10 @@
+
+com.lingan.imagestudio.BackgroundGenerationTest:.
+com.lingan.imagestudio.LocalStoreTest:.
+com.lingan.imagestudio.StudioFlowTest:.
+
+Time: 7.164
+
+OK (3 tests)
+
+

@@ -1,0 +1,28 @@
+
+com.lingan.imagestudio.BackgroundGenerationTest:.
+com.lingan.imagestudio.BackupStoreTest:.
+com.lingan.imagestudio.CollectionStoreTest:.
+com.lingan.imagestudio.LocalStoreTest:.
+com.lingan.imagestudio.MaskEditorTest:.
+com.lingan.imagestudio.QueueGenerationTest:..
+com.lingan.imagestudio.ResponsesGenerationTest:.
+com.lingan.imagestudio.SiliconFlowGenerationTest:.
+com.lingan.imagestudio.StreamingGenerationTest:.
+com.lingan.imagestudio.StudioFlowTest:.....
+com.lingan.imagestudio.VideoGenerationTest:.
+
+Time: 31.746
+
+OK (16 tests)
+
+
+
+Additional video configuration test:
+
+com.lingan.imagestudio.StudioFlowTest:.
+
+Time: 2.685
+
+OK (1 test)
+
+

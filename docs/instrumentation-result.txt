@@ -1,0 +1,9 @@
+
+com.lingan.imagestudio.LocalStoreTest:.
+com.lingan.imagestudio.StudioFlowTest:.
+
+Time: 2.855
+
+OK (2 tests)
+
+

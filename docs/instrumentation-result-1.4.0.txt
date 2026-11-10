@@ -1,0 +1,14 @@
+
+com.lingan.imagestudio.BackgroundGenerationTest:.
+com.lingan.imagestudio.BackupStoreTest:.
+com.lingan.imagestudio.LocalStoreTest:.
+com.lingan.imagestudio.MaskEditorTest:.
+com.lingan.imagestudio.QueueGenerationTest:..
+com.lingan.imagestudio.StreamingGenerationTest:.
+com.lingan.imagestudio.StudioFlowTest:...
+
+Time: 20.233
+
+OK (10 tests)
+
+
